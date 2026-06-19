@@ -117,7 +117,7 @@ gradio
 | Detail | Info |
 |--------|------|
 | Internship | CodSoft AI Internship |
-| Task | Task 3 — Image Captioning |
+| Task 3 | Image Captioning |
 | Task 1 | Rule-Based Chatbot |
 | Task 2 | Recommendation System |
 | Duration | June 2026 |
