@@ -126,7 +126,5 @@ gradio
 
 ## Author
 
-**Your Name**
-B.Tech Information Technology, 1st Year
-GitHub: github.com/yourusername
-LinkedIn: linkedin.com/in/yourprofile
+Made by Baby Sree as a part of the AI Internship at CodSoft.
+
